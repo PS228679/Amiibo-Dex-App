@@ -1,16 +1,7 @@
-# eindopdracht
+# Amiibo-Dex by Nadir Amankur
 
-A new Flutter project.
+This is a mobile application I made in Flutter that keeps track of all the Amiibos released by Nintendo.
 
-## Getting Started
+## Download this project by using:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Use the Git desktop application to pull this project or by using the Git CLI
